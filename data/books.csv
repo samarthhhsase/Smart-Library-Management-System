@@ -1,0 +1,121 @@
+book_id,title,author,category,isbn,publication_year,total_copies,available_copies,shelf_location
+BK-1001,Introduction to Algorithms (CLRS),Thomas H. Cormen,Computer Science,978-91-2824-125-4,2009,6,6,COM-4A
+BK-1002,Operating System Concepts,Abraham Silberschatz,Computer Science,978-27-2679-792-8,2018,5,5,COM-2C
+BK-1003,Computer Networks,Andrew S. Tanenbaum,Computer Science,978-64-1520-130-1,2010,4,3,COM-4A
+BK-1004,Database System Concepts,Henry F. Korth,Computer Science,978-74-1434-674-3,2019,5,5,COM-7A
+BK-1005,Design Patterns: Elements of Reusable Object-Oriented Software,Erich Gamma et al.,Computer Science,978-67-5557-928-0,2015,3,3,COM-3C
+BK-1006,"Compilers: Principles, Techniques, and Tools (Dragon Book)",Alfred V. Aho,Computer Science,978-64-6574-384-2,2006,4,4,COM-4B
+BK-1007,Computer Organization and Architecture,William Stallings,Computer Science,978-23-2519-489-1,2016,5,3,COM-6B
+BK-1008,Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin,Computer Science,978-87-5333-926-0,2008,6,6,COM-8C
+BK-1009,Artificial Intelligence: A Modern Approach,"Stuart Russell, Peter Norvig",Computer Science,978-25-7201-180-8,2020,7,6,COM-5C
+BK-1010,Computer Graphics: Principles and Practice,John F. Hughes,Computer Science,978-89-6925-691-3,2013,3,3,COM-2A
+BK-1011,Theory of Computation: Formal Languages and Automata,Peter Linz,Computer Science,978-94-4733-891-4,2016,4,3,COM-2A
+BK-1012,Software Engineering: A Practitioner's Approach,Roger S. Pressman,Computer Science,978-22-7227-384-7,2014,5,5,COM-6A
+BK-1013,Cryptography and Network Security,William Stallings,Computer Science,978-57-6820-314-4,2017,4,4,COM-2C
+BK-1014,Distributed Systems: Concepts and Design,George Coulouris,Computer Science,978-91-3803-646-3,2011,3,3,COM-3B
+BK-1015,The Pragmatic Programmer,"David Thomas, Andrew Hunt",Computer Science,978-58-5422-755-8,2019,5,5,COM-4C
+BK-1016,Pattern Recognition and Machine Learning,Christopher M. Bishop,Data Science & AI,978-51-1916-334-0,2006,6,6,DAT-6B
+BK-1017,Deep Learning,"Ian Goodfellow, Yoshua Bengio",Data Science & AI,978-44-2084-316-9,2016,7,7,DAT-6A
+BK-1018,"Hands-On Machine Learning with Scikit-Learn, Keras & TF",Aurélien Géron,Data Science & AI,978-93-9179-505-7,2022,8,8,DAT-3B
+BK-1019,The Elements of Statistical Learning,"Trevor Hastie, Robert Tibshirani",Data Science & AI,978-27-5040-862-8,2009,5,5,DAT-5C
+BK-1020,Python for Data Analysis,Wes McKinney,Data Science & AI,978-84-8019-697-6,2022,8,7,DAT-6A
+BK-1021,Speech and Language Processing (NLP),"Daniel Jurafsky, James H. Martin",Data Science & AI,978-27-9348-605-1,2023,4,4,DAT-1A
+BK-1022,Probabilistic Graphical Models,"Daphne Koller, Nir Friedman",Data Science & AI,978-29-3621-911-6,2009,3,3,DAT-2B
+BK-1023,Reinforcement Learning: An Introduction,"Richard S. Sutton, Andrew G. Barto",Data Science & AI,978-58-8668-641-4,2018,5,5,DAT-1C
+BK-1024,Computer Vision: Algorithms and Applications,Richard Szeliski,Data Science & AI,978-24-9797-868-4,2022,4,0,DAT-6A
+BK-1025,Data Mining: Concepts and Techniques,"Jiawei Han, Micheline Kamber",Data Science & AI,978-47-8123-261-7,2011,5,5,DAT-1C
+BK-1026,Bayesian Data Analysis,Andrew Gelman et al.,Data Science & AI,978-43-9201-880-2,2013,4,3,DAT-2C
+BK-1027,An Introduction to Statistical Learning,"Gareth James, Daniela Witten",Data Science & AI,978-48-9317-723-3,2021,9,9,DAT-3B
+BK-1028,Feature Engineering for Machine Learning,"Alice Zheng, Amanda Casari",Data Science & AI,978-30-9837-897-8,2018,5,5,DAT-1C
+BK-1029,Storytelling with Data: A Data Visualization Guide,Cole Nussbaumer Knaflic,Data Science & AI,978-51-9005-119-1,2015,6,6,DAT-6B
+BK-1030,Designing Machine Learning Systems,Chip Huyen,Data Science & AI,978-40-1949-346-9,2022,6,5,DAT-2A
+BK-1031,Microelectronic Circuits,"Adel S. Sedra, Kenneth C. Smith",Electronics & Comm.,978-72-2133-878-8,2014,5,5,ELE-3A
+BK-1032,Signals and Systems,"Alan V. Oppenheim, Alan S. Willsky",Electronics & Comm.,978-94-8787-662-2,1996,6,6,ELE-5C
+BK-1033,"Digital Signal Processing: Principles, Algorithms & Apps",John G. Proakis,Electronics & Comm.,978-87-7932-316-8,2007,5,5,ELE-4C
+BK-1034,Electronic Devices and Circuit Theory,Robert L. Boylestad,Electronics & Comm.,978-49-7537-787-5,2012,6,6,ELE-8C
+BK-1035,Digital Image Processing,"Rafael C. Gonzalez, Richard E. Woods",Electronics & Comm.,978-67-2982-353-3,2018,4,4,ELE-2B
+BK-1036,Electromagnetic Waves and Radiating Systems,Edward C. Jordan,Electronics & Comm.,978-12-4770-702-3,2015,4,4,ELE-1A
+BK-1037,Communication Systems,Simon Haykin,Electronics & Comm.,978-90-1964-334-1,2009,5,5,ELE-1B
+BK-1038,VLSI Design: Techniques for System Implementation,Weste and Harris,Electronics & Comm.,978-19-9423-343-4,2010,4,4,ELE-8A
+BK-1039,Wireless Communications: Principles and Practice,Theodore S. Rappaport,Electronics & Comm.,978-79-3167-840-9,2002,4,4,ELE-8A
+BK-1040,Embedded System Design,"Frank Vahid, Tony Givargis",Electronics & Comm.,978-70-7669-294-1,2006,5,5,ELE-2C
+BK-1041,Engineering Thermodynamics,P. K. Nag,Mechanical Eng.,978-65-6804-533-6,2013,6,6,MEC-8C
+BK-1042,Thermodynamics: An Engineering Approach,"Yunus A. Cengel, Michael A. Boles",Mechanical Eng.,978-16-2612-162-6,2019,5,5,MEC-6A
+BK-1043,Fluid Mechanics: Fundamentals and Applications,"Yunus A. Cengel, John M. Cimbala",Mechanical Eng.,978-41-4139-294-8,2017,5,5,MEC-8A
+BK-1044,Heat and Mass Transfer,R. K. Rajput,Mechanical Eng.,978-64-4006-385-7,2015,6,6,MEC-4A
+BK-1045,Theory of Machines,S. S. Rattan,Mechanical Eng.,978-66-2604-151-8,2014,5,5,MEC-1A
+BK-1046,Design of Machine Elements,V. B. Bhandari,Mechanical Eng.,978-40-3724-516-7,2017,6,6,MEC-8A
+BK-1047,"Manufacturing Technology: Foundry, Forming & Welding",P. N. Rao,Mechanical Eng.,978-61-1960-268-6,2018,4,4,MEC-1B
+BK-1048,Strength of Materials,S. Ramamrutham,Mechanical Eng.,978-43-8454-392-6,2016,7,7,MEC-8A
+BK-1049,Robotics and Industrial Automation,R. K. Rajput,Mechanical Eng.,978-34-5861-322-0,2019,4,4,MEC-1C
+BK-1050,Automobile Engineering,Kirpal Singh,Mechanical Eng.,978-50-1936-151-9,2015,4,4,MEC-8C
+BK-1051,Basic Structural Analysis,C. S. Reddy,Civil Eng.,978-77-3579-158-8,2011,4,4,CIV-2A
+BK-1052,Soil Mechanics and Foundations,B. C. Punmia,Civil Eng.,978-18-2113-791-3,2017,5,5,CIV-7A
+BK-1053,Surveying: Vol. 1 & 2,"B. C. Punmia, A. K. Jain",Civil Eng.,978-82-5033-692-9,2016,6,6,CIV-1C
+BK-1054,Reinforced Concrete Design,S. Unnikrishna Pillai,Civil Eng.,978-20-7868-773-9,2015,5,5,CIV-6B
+BK-1055,Fluid Mechanics and Hydraulic Machines,R. K. Bansal,Civil Eng.,978-36-6147-344-4,2018,6,6,CIV-7A
+BK-1056,Environmental Engineering,Howard S. Peavy,Civil Eng.,978-95-5915-568-5,2013,4,4,CIV-2A
+BK-1057,Transportation Engineering,C. Venkatramaiah,Civil Eng.,978-68-2638-175-8,2016,4,4,CIV-4C
+BK-1058,Building Construction,Sushil Kumar,Civil Eng.,978-43-3170-457-1,2014,5,5,CIV-4B
+BK-1059,Higher Engineering Mathematics,B. S. Grewal,Mathematics & Statistics,978-46-3584-548-8,2017,10,10,MAT-5C
+BK-1060,Advanced Engineering Mathematics,Erwin Kreyszig,Mathematics & Statistics,978-93-9666-108-8,2011,8,8,MAT-5C
+BK-1061,Linear Algebra and Its Applications,Gilbert Strang,Mathematics & Statistics,978-23-3200-370-1,2016,7,7,MAT-2C
+BK-1062,Introduction to Probability and Statistics,Sheldon M. Ross,Mathematics & Statistics,978-80-3546-378-4,2014,6,6,MAT-4C
+BK-1063,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Mathematics & Statistics,978-53-4335-803-4,2018,6,6,MAT-8B
+BK-1064,Calculus: Early Transcendentals,James Stewart,Mathematics & Statistics,978-16-2512-749-6,2015,6,6,MAT-5A
+BK-1065,"Probability, Random Variables and Stochastic Processes",A. Papoulis,Mathematics & Statistics,978-10-6464-889-2,2002,4,4,MAT-5A
+BK-1066,Applied Statistics and Probability for Engineers,Douglas C. Montgomery,Mathematics & Statistics,978-66-8007-674-0,2014,5,5,MAT-2A
+BK-1067,Numerical Methods for Scientific and Engineering Computation,M. K. Jain,Mathematics & Statistics,978-98-3442-658-0,2012,4,4,MAT-6C
+BK-1068,Principles of Management,"P. C. Tripathi, P. N. Reddy",Management & Soft Skills,978-80-3426-540-2,2017,5,5,MAN-1B
+BK-1069,Project Management: A Managerial Approach,Jack R. Meredith,Management & Soft Skills,978-56-1653-466-3,2015,4,4,MAN-4C
+BK-1070,Effective Technical Communication,M. Ashraf Rizvi,Management & Soft Skills,978-23-6794-898-8,2018,5,5,MAN-7C
+BK-1071,Financial Management: Theory and Practice,Prasanna Chandra,Management & Soft Skills,978-29-4878-985-2,2019,4,4,MAN-3B
+BK-1072,Organizational Behaviour,Stephen P. Robbins,Management & Soft Skills,978-13-3938-854-5,2016,5,5,MAN-7C
+BK-1073,Advanced Principles of Management & Soft Skills Vol. 2,Prof. Rhea Patel,Management & Soft Skills,978-14-8711-327-3,2008,5,5,MAN-8B
+BK-1074,Advanced Principles of Electronics & Comm. Vol. 2,Prof. Varun Sharma,Electronics & Comm.,978-52-5564-985-1,2011,5,5,ELE-5B
+BK-1075,Advanced Principles of Mathematics & Statistics Vol. 4,Prof. Pranav Joshi,Mathematics & Statistics,978-43-3925-694-4,2005,2,2,MAT-1A
+BK-1076,Advanced Principles of Civil Eng. Vol. 4,Prof. Akash Joshi,Civil Eng.,978-75-2894-494-9,2018,6,6,CIV-4B
+BK-1077,Advanced Principles of Computer Science Vol. 4,Prof. Aarav Chawla,Computer Science,978-56-8066-171-5,2022,3,3,COM-6C
+BK-1078,Advanced Principles of Management & Soft Skills Vol. 1,Prof. Divya Chawla,Management & Soft Skills,978-51-7592-813-4,2014,5,5,MAN-3A
+BK-1079,Advanced Principles of Mechanical Eng. Vol. 4,Prof. Ishita Saxena,Mechanical Eng.,978-61-9977-953-0,2023,4,4,MEC-5B
+BK-1080,Advanced Principles of Data Science & AI Vol. 4,Prof. Sakshi Saxena,Data Science & AI,978-66-8244-791-3,2015,5,4,DAT-8C
+BK-1081,Advanced Principles of Data Science & AI Vol. 1,Prof. Manish Chawla,Data Science & AI,978-40-6085-330-3,2015,2,2,DAT-3A
+BK-1082,Advanced Principles of Computer Science Vol. 2,Prof. Ravi Saxena,Computer Science,978-63-4185-835-6,2007,5,5,COM-8B
+BK-1083,Advanced Principles of Data Science & AI Vol. 2,Prof. Aarav Malhotra,Data Science & AI,978-32-9486-575-0,2018,3,2,DAT-4A
+BK-1084,Advanced Principles of Mechanical Eng. Vol. 2,Prof. Aishwarya Chawla,Mechanical Eng.,978-50-8251-727-8,2022,6,6,MEC-7C
+BK-1085,Advanced Principles of Mechanical Eng. Vol. 2,Prof. Ravi Kulkarni,Mechanical Eng.,978-91-5543-884-8,2013,3,3,MEC-8C
+BK-1086,Advanced Principles of Data Science & AI Vol. 3,Prof. Deepak Gupta,Data Science & AI,978-44-6502-427-8,2014,3,3,DAT-2A
+BK-1087,Advanced Principles of Data Science & AI Vol. 2,Prof. Sameer Mehta,Data Science & AI,978-63-7678-438-8,2011,2,2,DAT-8B
+BK-1088,Advanced Principles of Computer Science Vol. 2,Prof. Nikhil Das,Computer Science,978-83-7232-588-0,2023,2,2,COM-6B
+BK-1089,Advanced Principles of Management & Soft Skills Vol. 4,Prof. Nikhil Bhatia,Management & Soft Skills,978-38-8999-324-4,2022,6,6,MAN-7B
+BK-1090,Advanced Principles of Computer Science Vol. 4,Prof. Shruti Das,Computer Science,978-26-9751-127-6,2010,5,5,COM-1A
+BK-1091,Advanced Principles of Mathematics & Statistics Vol. 4,Prof. Rahul Kulkarni,Mathematics & Statistics,978-43-7211-435-3,2010,2,2,MAT-8B
+BK-1092,Advanced Principles of Electronics & Comm. Vol. 4,Prof. Rhea Choudhury,Electronics & Comm.,978-70-1317-867-8,2013,2,2,ELE-1B
+BK-1093,Advanced Principles of Data Science & AI Vol. 1,Prof. Rohan Sharma,Data Science & AI,978-12-3496-344-2,2012,3,3,DAT-8C
+BK-1094,Advanced Principles of Computer Science Vol. 2,Prof. Aishwarya Nair,Computer Science,978-87-2876-896-2,2016,3,3,COM-5A
+BK-1095,Advanced Principles of Civil Eng. Vol. 1,Prof. Divya Kapoor,Civil Eng.,978-35-2245-706-3,2017,5,5,CIV-2C
+BK-1096,Advanced Principles of Management & Soft Skills Vol. 3,Prof. Yash Malhotra,Management & Soft Skills,978-54-9728-538-5,2023,2,2,MAN-2C
+BK-1097,Advanced Principles of Mathematics & Statistics Vol. 3,Prof. Aarav Choudhury,Mathematics & Statistics,978-65-6934-750-7,2020,2,2,MAT-3B
+BK-1098,Advanced Principles of Data Science & AI Vol. 3,Prof. Trisha Bhatia,Data Science & AI,978-65-5397-430-3,2020,5,5,DAT-2B
+BK-1099,Advanced Principles of Mechanical Eng. Vol. 2,Prof. Aishwarya Kapoor,Mechanical Eng.,978-13-9098-971-5,2017,4,4,MEC-3B
+BK-1100,Advanced Principles of Data Science & AI Vol. 3,Prof. Kunal Joshi,Data Science & AI,978-99-5526-669-0,2013,6,6,DAT-4A
+BK-1101,Advanced Principles of Data Science & AI Vol. 4,Prof. Shreya Bhatia,Data Science & AI,978-92-9041-558-0,2012,5,5,DAT-2B
+BK-1102,Advanced Principles of Data Science & AI Vol. 4,Prof. Tanvi Iyer,Data Science & AI,978-70-9698-452-6,2023,4,4,DAT-6B
+BK-1103,Advanced Principles of Mathematics & Statistics Vol. 4,Prof. Rhea Iyer,Mathematics & Statistics,978-25-4155-423-1,2013,3,3,MAT-3A
+BK-1104,Advanced Principles of Data Science & AI Vol. 4,Prof. Rhea Kapoor,Data Science & AI,978-46-2647-952-3,2021,6,6,DAT-5A
+BK-1105,Advanced Principles of Electronics & Comm. Vol. 2,Prof. Divya Sharma,Electronics & Comm.,978-45-1745-155-8,2022,3,3,ELE-5C
+BK-1106,Advanced Principles of Data Science & AI Vol. 4,Prof. Vikram Sharma,Data Science & AI,978-70-8843-551-5,2023,4,3,DAT-3A
+BK-1107,Advanced Principles of Electronics & Comm. Vol. 4,Prof. Neha Gupta,Electronics & Comm.,978-19-1878-255-2,2017,5,5,ELE-5A
+BK-1108,Advanced Principles of Data Science & AI Vol. 1,Prof. Nandini Choudhury,Data Science & AI,978-58-8381-553-4,2012,6,6,DAT-7B
+BK-1109,Advanced Principles of Civil Eng. Vol. 1,Prof. Trisha Malhotra,Civil Eng.,978-43-2330-260-3,2011,3,3,CIV-3C
+BK-1110,Advanced Principles of Computer Science Vol. 2,Prof. Aarav Choudhury,Computer Science,978-70-5771-133-3,2019,6,6,COM-5C
+BK-1111,Advanced Principles of Electronics & Comm. Vol. 4,Prof. Aditya Reddy,Electronics & Comm.,978-94-4241-535-1,2013,6,6,ELE-4C
+BK-1112,Advanced Principles of Data Science & AI Vol. 3,Prof. Kavya Gupta,Data Science & AI,978-49-5728-549-1,2006,3,2,DAT-8C
+BK-1113,Advanced Principles of Electronics & Comm. Vol. 4,Prof. Rhea Chawla,Electronics & Comm.,978-66-2317-712-0,2022,5,5,ELE-7C
+BK-1114,Advanced Principles of Electronics & Comm. Vol. 3,Prof. Ananya Gupta,Electronics & Comm.,978-85-1339-883-4,2012,6,6,ELE-1A
+BK-1115,Advanced Principles of Mechanical Eng. Vol. 4,Prof. Rhea Patel,Mechanical Eng.,978-91-9056-193-7,2023,5,5,MEC-6B
+BK-1116,Advanced Principles of Electronics & Comm. Vol. 3,Prof. Vikram Patel,Electronics & Comm.,978-98-9117-395-6,2015,5,5,ELE-1B
+BK-1117,Advanced Principles of Computer Science Vol. 3,Prof. Kunal Joshi,Computer Science,978-75-1018-773-8,2008,5,5,COM-8B
+BK-1118,Advanced Principles of Computer Science Vol. 2,Prof. Bhavna Bose,Computer Science,978-16-4335-373-8,2020,5,4,COM-3B
+BK-1119,Advanced Principles of Mechanical Eng. Vol. 4,Prof. Neha Sharma,Mechanical Eng.,978-49-1224-665-6,2012,3,3,MEC-2A
+BK-1120,Advanced Principles of Management & Soft Skills Vol. 1,Prof. Aishwarya Malhotra,Management & Soft Skills,978-47-9337-822-4,2009,5,5,MAN-7B

@@ -1,0 +1,66 @@
+student_id,name,email,department,year_of_study,contact
+STU-2001,Ravi Reddy,ravi.reddy59@college.edu,Mechanical Eng.,2,+91 76245 88561
+STU-2002,Karthik Mehta,karthik.mehta63@college.edu,Computer Science,3,+91 81137 76550
+STU-2003,Rhea Sharma,rhea.sharma85@college.edu,Electronics & Comm.,3,+91 89002 96499
+STU-2004,Shreya Mehta,shreya.mehta54@college.edu,Mechanical Eng.,4,+91 80893 82340
+STU-2005,Pranav Das,pranav.das34@college.edu,Mechanical Eng.,3,+91 92855 41300
+STU-2006,Harsh Das,harsh.das15@college.edu,Information Technology,4,+91 80426 71993
+STU-2007,Sameer Das,sameer.das14@college.edu,Information Technology,4,+91 74136 75836
+STU-2008,Sakshi Joshi,sakshi.joshi22@college.edu,Computer Science,4,+91 87234 69890
+STU-2009,Aarav Mehta,aarav.mehta19@college.edu,Mechanical Eng.,2,+91 85384 44737
+STU-2010,Shruti Saxena,shruti.saxena52@college.edu,Mechanical Eng.,1,+91 97929 98389
+STU-2011,Pranav Das,pranav.das79@college.edu,Electronics & Comm.,4,+91 71176 90931
+STU-2012,Aditya Reddy,aditya.reddy21@college.edu,Electronics & Comm.,2,+91 84220 22903
+STU-2013,Vikram Kulkarni,vikram.kulkarni13@college.edu,Information Technology,3,+91 71507 52516
+STU-2014,Priya Iyer,priya.iyer65@college.edu,Electronics & Comm.,3,+91 74770 42007
+STU-2015,Bhavna Choudhury,bhavna.choudhury31@college.edu,Civil Eng.,2,+91 75736 20350
+STU-2016,Trisha Das,trisha.das73@college.edu,Civil Eng.,2,+91 99911 86435
+STU-2017,Kavya Reddy,kavya.reddy68@college.edu,Mechanical Eng.,3,+91 78366 97404
+STU-2018,Aarav Kulkarni,aarav.kulkarni19@college.edu,Electronics & Comm.,2,+91 84474 55293
+STU-2019,Sakshi Iyer,sakshi.iyer68@college.edu,Mechanical Eng.,3,+91 97698 49599
+STU-2020,Arjun Das,arjun.das40@college.edu,Mechanical Eng.,1,+91 82496 84963
+STU-2021,Akash Kapoor,akash.kapoor12@college.edu,Electronics & Comm.,3,+91 97198 96275
+STU-2022,Swati Nair,swati.nair87@college.edu,Computer Science,1,+91 94417 75107
+STU-2023,Manish Reddy,manish.reddy38@college.edu,Civil Eng.,3,+91 90860 34920
+STU-2024,Trisha Nair,trisha.nair90@college.edu,Information Technology,1,+91 91179 15167
+STU-2025,Divya Kulkarni,divya.kulkarni26@college.edu,Computer Science,3,+91 72953 48680
+STU-2026,Gaurav Choudhury,gaurav.choudhury26@college.edu,Information Technology,2,+91 95772 80701
+STU-2027,Meera Chawla,meera.chawla31@college.edu,Civil Eng.,3,+91 78420 73156
+STU-2028,Manish Joshi,manish.joshi19@college.edu,Computer Science,4,+91 74612 39571
+STU-2029,Swati Bhatia,swati.bhatia60@college.edu,Electronics & Comm.,1,+91 70456 44663
+STU-2030,Pranav Malhotra,pranav.malhotra96@college.edu,Mechanical Eng.,3,+91 94543 98125
+STU-2031,Kunal Kapoor,kunal.kapoor23@college.edu,Mechanical Eng.,3,+91 92113 40647
+STU-2032,Ravi Sharma,ravi.sharma88@college.edu,Civil Eng.,3,+91 77253 94889
+STU-2033,Aditya Kulkarni,aditya.kulkarni24@college.edu,Electronics & Comm.,4,+91 74580 15943
+STU-2034,Rohan Iyer,rohan.iyer22@college.edu,Mechanical Eng.,1,+91 77693 80457
+STU-2035,Rahul Das,rahul.das95@college.edu,Mechanical Eng.,3,+91 94351 80804
+STU-2036,Nikhil Kapoor,nikhil.kapoor93@college.edu,Information Technology,4,+91 73244 74139
+STU-2037,Trisha Choudhury,trisha.choudhury98@college.edu,Electronics & Comm.,1,+91 82141 38477
+STU-2038,Deepak Kulkarni,deepak.kulkarni22@college.edu,Information Technology,3,+91 92468 58147
+STU-2039,Pranav Bose,pranav.bose45@college.edu,Computer Science,4,+91 76219 26011
+STU-2040,Aishwarya Gupta,aishwarya.gupta16@college.edu,Information Technology,1,+91 95781 53713
+STU-2041,Tanvi Mehta,tanvi.mehta18@college.edu,Civil Eng.,2,+91 97191 82641
+STU-2042,Pooja Kapoor,pooja.kapoor52@college.edu,Information Technology,2,+91 95374 29340
+STU-2043,Yash Sharma,yash.sharma26@college.edu,Electronics & Comm.,2,+91 87701 42853
+STU-2044,Ishita Malhotra,ishita.malhotra11@college.edu,Computer Science,2,+91 81738 41186
+STU-2045,Sakshi Joshi,sakshi.joshi43@college.edu,Computer Science,2,+91 71717 26614
+STU-2046,Nikhil Chawla,nikhil.chawla70@college.edu,Computer Science,1,+91 84689 57453
+STU-2047,Karthik Kapoor,karthik.kapoor74@college.edu,Computer Science,4,+91 77259 90623
+STU-2048,Rohan Chawla,rohan.chawla92@college.edu,Electronics & Comm.,4,+91 71020 17972
+STU-2049,Ravi Das,ravi.das72@college.edu,Mechanical Eng.,1,+91 93343 68138
+STU-2050,Aditya Gupta,aditya.gupta18@college.edu,Electronics & Comm.,2,+91 74135 46046
+STU-2051,Trisha Kapoor,trisha.kapoor58@college.edu,Civil Eng.,3,+91 89575 79541
+STU-2052,Manish Kulkarni,manish.kulkarni22@college.edu,Civil Eng.,4,+91 95988 24996
+STU-2053,Nandini Singh,nandini.singh39@college.edu,Mechanical Eng.,4,+91 83559 54424
+STU-2054,Aishwarya Das,aishwarya.das50@college.edu,Mechanical Eng.,1,+91 83984 50963
+STU-2055,Kunal Bose,kunal.bose18@college.edu,Information Technology,4,+91 72989 21188
+STU-2056,Sneha Choudhury,sneha.choudhury26@college.edu,Computer Science,3,+91 88231 17861
+STU-2057,Sakshi Bhatia,sakshi.bhatia95@college.edu,Civil Eng.,3,+91 74005 63845
+STU-2058,Akash Choudhury,akash.choudhury86@college.edu,Computer Science,3,+91 80238 56090
+STU-2059,Vikram Kapoor,vikram.kapoor29@college.edu,Civil Eng.,2,+91 91519 73201
+STU-2060,Varun Malhotra,varun.malhotra24@college.edu,Electronics & Comm.,3,+91 94989 46512
+STU-2061,Harsh Reddy,harsh.reddy87@college.edu,Mechanical Eng.,1,+91 91555 45054
+STU-2062,Ananya Patel,ananya.patel53@college.edu,Electronics & Comm.,3,+91 81502 10800
+STU-2063,Ishita Mehta,ishita.mehta18@college.edu,Civil Eng.,4,+91 74648 92991
+STU-2064,Ananya Gupta,ananya.gupta58@college.edu,Civil Eng.,2,+91 83757 69460
+STU-2065,Shruti Patel,shruti.patel51@college.edu,Electronics & Comm.,3,+91 95455 84395
